@@ -24,3 +24,11 @@ h2 {
 h3 {
   color: #66BFBF;
 }
+
+a {
+ color: grey;
+}
+
+a:hover {
+       color: blue; 
+}
