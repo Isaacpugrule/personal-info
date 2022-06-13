@@ -29,6 +29,6 @@ a {
   color: grey;
 }
 
-a {
+a:hover {
   color: red;
 }
